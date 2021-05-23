@@ -1,0 +1,17 @@
+h1{
+    color:bisque;
+    margin: 50px;
+}
+ *{
+    border:solid
+}
+
+.game{
+background-color:brown;
+display: flex;
+justify-content:space-between;
+}
+
+body{
+background-color: cadetblue;
+}
